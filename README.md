@@ -43,7 +43,7 @@ This is a browser-based implementation of the classic **Tic Tac Toe** game. It i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Deepakgowda06/tic-tac-toe.git
+   git clone https://github.com/Deepakgowda06/tic-tac-toe-game
 
 
 ##Technologies Used.
